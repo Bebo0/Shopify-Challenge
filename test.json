@@ -1,0 +1,9 @@
+[
+	{
+		"model": "api.lineitem",
+		"pk": 1,
+		"fields": {
+			"value": 5
+		}
+	}
+]
